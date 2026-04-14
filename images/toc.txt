@@ -1,0 +1,20 @@
+Sentinel_Brain.JPG
+= Shows where the brain is seated inside Sentinel's chassis
+
+Sentinel_Built.JPG
+= Shows Sentinel's condition before battling Snappy the Snapping Turtle
+
+Sentinel_Charging.JPG
+= Shows a power cord plugged into Sentinel's battery
+
+Sentinel_Connect.JPG
+= Shows where the battery's power wraps around to plug into Sentinel's brain; also shows the reat motor and the antenna
+
+Sentinel_Destroyed.JPG
+= Shows the result of Sentinel's battle with Snappy the Snapping Turtle
+
+Sentinel_Plow.JPG
+= Show's Sentinel's main offensive/defensive feature
+
+Sentinel_Rear.JPG
+= Shows Sentinel's rear motor and wheel
