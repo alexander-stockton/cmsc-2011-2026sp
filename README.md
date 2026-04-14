@@ -26,10 +26,10 @@ Design a robot using VEX V5 robotics parts and programs that, when placed in bat
 (R1) -> Spin rear wheel to the right / Turn left
 
 ### Connections/Ports
-(Front-Left Wheel) -> Port 11
-(Front-Right Wheel) -> Port 12
-(Rear Wheel) -> Port 13
-(Antenna) -> Port 20
+(Front-Left Wheel) -> Port 11 \
+(Front-Right Wheel) -> Port 12 \
+(Rear Wheel) -> Port 13 \
+(Antenna) -> Port 20 \
 
 ## Design
 *Three-wheeled automobile with a somewhat-loose plow in front to shove opponents against walls; called "Sentinel" because it is designed to, at best, force a tie and, at worst, annoy opponents*
